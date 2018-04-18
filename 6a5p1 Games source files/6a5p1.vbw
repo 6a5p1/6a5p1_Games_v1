@@ -1,0 +1,13 @@
+Game = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+TicTacToe = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GameWell = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Sudoku = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GameQuit = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GameHelp = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+GameAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Impasse = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Welcome = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SoundChooser = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SudokuImport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SudokuExport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
